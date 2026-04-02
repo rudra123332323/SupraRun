@@ -31,7 +31,7 @@ body {
     left: 73%;
     top: 72%;
     color: aliceblue;
-    font-weight: bold;
+    font-weight: 900;
     transform: translate(-50%, -50%);
     background: radial-gradient(red, darkred);
     box-shadow: 0 0 10px rgba(255,0,0,0.6);
