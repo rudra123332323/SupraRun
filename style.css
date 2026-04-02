@@ -30,7 +30,7 @@ body {
     position: absolute;
     left: 73%;
     top: 72%;
-    color: aliceblue;
+    color: yellow;
     font-weight: 900;
     transform: translate(-50%, -50%);
     background: radial-gradient(red, darkred);
